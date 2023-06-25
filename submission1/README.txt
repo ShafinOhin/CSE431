@@ -5,10 +5,10 @@ Link to unlisted YouTube video:
 https://youtu.be/4MCn3EqbDwA
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1H5ua_qcKIvnc-q1fjQthmw6wmNC1dzX--7YPGW_pRdk/edit?usp=sharing
 
 Project title:
-Visual Question Answering using Transformer-based models and diffusion models
+Visual Question Answering using Transformer-based models
 
 Group Number:
 13
