@@ -19,7 +19,8 @@ Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
 
 Link to the book chapter:
-https://books.google.com/books...
+Question Answering and Information Retrieval
+https://web.stanford.edu/~jurafsky/slp3/14.pdf
 
 Group Number:
 13
