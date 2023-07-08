@@ -3,7 +3,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/ShafinOhin/CSE431/new/main/submission3/Concept%20Map.pdf
+https://github.com/ShafinOhin/CSE431/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://excalidraw.com/#room=ec574ca810e1fccacd95,bX_B65P2yd4a4ri6YqNWwQ
 
