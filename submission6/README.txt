@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/9744827256mszzcbbbsfxz
 
 Unlisted YouTube video:
-https://youtu.be/gJEUPc9jOzw
+https://youtu.be/
 
 Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Visual Question Answering using Transformer-based model
+Visual Qestion Answering using CNN and LSTM feature extraction
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
