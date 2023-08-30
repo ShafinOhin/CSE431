@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Visual Qestion Answering using CNN and LSTM feature extraction
+Deep Dive into Bangla Complex Named Entity Recognition: Challenges, Insights, and Performance of Transformer-Based Models
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
