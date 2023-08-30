@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1sfBhjpfV7iqxNX4wOWoBOjHq2agGl7vfzAR9nERhhm4/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-
+31st August, 2023
 
 Paper submission ID: (received) from conference/workshop
-
+211
 
 Conference Name:
-
+IEEE CSDE 2023
 
 Conference URL:
-http://confsite/...
+https://ieee-csde.org/csde2023/
 
 Group Number:
 13
