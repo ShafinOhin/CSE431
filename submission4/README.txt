@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/zyJOZLtHIO0
 
 Conference submitted paper / paper submission / login Link:
-
+https://ieee-csde.org/csde2023/nps-profile/?action=login&login=false
 
 Paper title:
 Deep Dive into Bangla Complex Named Entity Recognition: Challenges, Insights, and Performance of Transformer-Based Models
