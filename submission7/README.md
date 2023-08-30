@@ -3,7 +3,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 [https://www.overleaf.com/9744827256mszzcbbbsfxz](https://www.overleaf.com/1172824419nhnsyjmvfrpn)
 
 Unlisted YouTube video:
-https://youtu.be/zyJOZLtHIO0
+https://www.youtube.com/watch?v=gJEUPc9jOzw
 
 Conference submitted paper / paper submission / login Link:
 
