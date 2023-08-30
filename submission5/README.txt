@@ -11,7 +11,7 @@ Paper title:
 Visual Question Answering using Visual Transformer and text-to-text transformer model
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1sfBhjpfV7iqxNX4wOWoBOjHq2agGl7vfzAR9nERhhm4/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
