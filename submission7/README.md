@@ -8,7 +8,7 @@ https://youtu.be/zyJOZLtHIO0
 Conference submitted paper / paper submission / login Link:
 
 Paper title:
-
+Binary Visual Question Answering using MobileNetV2 and DistilBERT
 
 Paper presentation (anyone can view without login):
 
