@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Visual Question Answering using Visual Transformer and text-to-text transformer model
+Deep Dive into Bangla Complex Named Entity Recognition: Challenges, Insights, and Performance of Transformer-Based Models
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1sfBhjpfV7iqxNX4wOWoBOjHq2agGl7vfzAR9nERhhm4/edit?usp=sharing
